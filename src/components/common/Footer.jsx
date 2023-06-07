@@ -10,7 +10,7 @@ const Footer = () => {
             <i data-aos='zoom-in'>{item.icon}</i>
           </>
         ))}
-        <p data-aos='zoom-in'>All Right Resceved 2018</p>
+        <p data-aos='zoom-in'>All Right Resceved 2023</p>
       </footer>
     </>
   )

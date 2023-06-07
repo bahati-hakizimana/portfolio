@@ -2,7 +2,7 @@ import { Menu } from "@mui/icons-material"
 import React, { useState } from "react"
 import { Link } from "react-router-dom"
 import { navlink } from "../data/dummydata"
-import logo from "../data/images/logo.png"
+
 
 export const Header = () => {
   const [responsive, setResponsive] = useState(false)
@@ -11,7 +11,7 @@ export const Header = () => {
       <header>
         <div className='container flexsb'>
           <div className='logo'>
-            <img src={logo} alt='' data-aos='zoom-in-right' />
+            <h1>bahati</h1>
           </div>
           <div className={responsive ? "hideMenu" : "nav"}>
             {navlink.map((links, i) => (

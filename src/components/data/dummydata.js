@@ -33,9 +33,9 @@ export const navlink = [
 export const home = [
   {
     text: "HELLO I'M",
-    name: "ALAMIN MUSA",
+    name: "Bahati Jackson",
     post: "WEB DESIGNER",
-    design: "UI / UX DESIGNER",
+    design: "UI / frontend/backend developer",
     desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
 ]
@@ -43,7 +43,7 @@ export const about = [
   {
     desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
     desc1: "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    cover: "./images/man.png",
+    cover: "./images/man.jepg",
   },
 ]
 export const services = [
@@ -113,42 +113,42 @@ export const project = [
 export const portfolio = [
   {
     id: 1,
-    cover: "../images/port/port1.jpg",
+    cover: "../images/port/port1.PNG",
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 2,
-    cover: "../images/port/port2.jpg",
+    cover: "../images/port/port2.PNG",
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 3,
-    cover: "../images/port/port3.jpg",
+    cover: "../images/port/port3.PNG",
     name: "Brand",
     category: "development",
     title: "Brex Logo",
   },
   {
     id: 4,
-    cover: "../images/port/port4.jpg",
+    cover: "../images/port/port4.PNG",
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 5,
-    cover: "../images/port/port5.jpg",
+    cover: "../images/port/port5.PNG",
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 6,
-    cover: "../images/port/port6.jpg",
+    cover: "../images/port/port6.PNG",
     name: "Brand",
     category: "development",
     title: "Brex Logo",
@@ -206,18 +206,18 @@ export const blog = [
 export const contact = [
   {
     icon: <AddLocationAltOutlined />,
-    text1: "2651 Main Street, Suit 124",
+    text1: "2651 Main Street Kigali, Kva 124",
     text2: "Seattle, WA, 98101",
   },
   {
     icon: <PhoneIphone />,
-    text1: "0123456789",
-    text2: "0345627891",
+    text1: "0785461866",
+    text2: "0780035234",
   },
   {
     icon: <EmailOutlined />,
-    text1: "hello@thetheme.io",
-    text2: "inf0@brex-theme.io",
+    text1: "hakizimanabahati2019@thetheme.io",
+    text2: "batjackson20220@",
   },
 ]
 export const social = [
